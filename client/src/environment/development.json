@@ -1,0 +1,8 @@
+{
+    "apiURL": "http://localhost:8082",
+    "apiFB": "",
+    "apiKey": "AIzaSyA8z5e2ItxC4uhGH_5Cd5CUOxcq5vMuYMw",
+    "authDomain": "callanswering.firebaseapp.com",
+    "projectId": "callanswering",
+    "storageBucket": "callanswering.appspot.com"
+}

@@ -1,0 +1,8 @@
+{
+    "apiURL": "https://us-central1-callanswering.cloudfunctions.net/accountApi",
+    "apiFB": "Bearer ",
+    "apiKey": "AIzaSyA8z5e2ItxC4uhGH_5Cd5CUOxcq5vMuYMw",
+    "authDomain": "callanswering.firebaseapp.com",
+    "projectId": "callanswering",
+    "storageBucket": "callanswering.appspot.com"
+}

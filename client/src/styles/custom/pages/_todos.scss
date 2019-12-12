@@ -1,0 +1,18 @@
+.todos-list li {
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+  }
+  .todos-list span,
+  .todos-list input {
+    margin-right: 10px;
+  }
+  .todos-list input {
+    outline: none;
+    border: none;
+    border-bottom: 1px solid rgb(172, 172, 172);
+  }
+  .todo-checked {
+    text-decoration: line-through;
+  }
