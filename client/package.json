@@ -30,7 +30,7 @@
     "jquery-sparkline": "^2.4.0",
     "jquery-validation": "^1.19.1",
     "killbill": "github:killbill/killbill-client-js",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "metismenujs": "^1.1.0",
     "node-sass": "^4.12.0",
     "parsleyjs": "^2.9.1",
