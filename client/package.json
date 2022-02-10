@@ -32,7 +32,7 @@
     "killbill": "github:killbill/killbill-client-js",
     "lodash": "^4.17.15",
     "metismenujs": "^1.1.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "parsleyjs": "^2.9.1",
     "sass-loader": "^7.1.0",
     "select2": "^4.0.12",
