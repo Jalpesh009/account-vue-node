@@ -60,7 +60,7 @@
     "vue2-dropzone": "^3.6.0",
     "vue2-editor": "^2.10.2",
     "vuedraggable": "^2.21.0",
-    "vuetify": "^2.0.19",
+    "vuetify": "^2.6.10",
     "xlsx": "^0.14.3",
     "xmlhttprequest": "^1.8.0",
     "zxcvbn": "^4.4.2"
